@@ -1,5 +1,8 @@
 _repo: Esto-perpetua-b-Algerian-studies-and-impressions_73051
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 73051-h/images/cover.jpg
 creator:
   author:
     agent_name: Belloc, Hilaire
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2437
     wikipedia: https://en.wikipedia.org/wiki/Hilaire_Belloc
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73051#Esto-perpetua-b-Algerian-studies-and-impressions
 gutenberg_issued: '2024-02-27'
 gutenberg_type: Text
 identifiers:
